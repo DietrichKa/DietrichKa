@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DietrichKa
 - 👀 I’m interested in Smart Home
-- 🌱 I’m currently learning C++, JAVA and Python in the university.
+- 🌱 I’m currently learning C++, JAVA and Python at university.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me dk29x@aol.com .
 
